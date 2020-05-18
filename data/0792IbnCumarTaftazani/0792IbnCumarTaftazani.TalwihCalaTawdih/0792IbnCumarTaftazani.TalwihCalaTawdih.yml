@@ -1,6 +1,7 @@
 00#BOOK#URI######: 0792IbnCumarTaftazani.TalwihCalaTawdih
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: al-Talwīḥ ʿalá al-tawḍīḥ li-matn al-tanqīḥ fī uṣūl al-fiqh
+10#BOOK#TITLEA#AR: al-Talwīḥ ʿalá al-tawḍīḥ li-matn al-tanqīḥ fī uṣūl
+    al-fiqh
 10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
